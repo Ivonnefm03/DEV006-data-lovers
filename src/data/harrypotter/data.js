@@ -16212,7 +16212,7 @@ export default {
     {
       "id": 6,
       "title": "Harry Potter and the Half-Blood Prince",
-      "image":"/images/HalfBloodPrince.png",
+      "image":"./images/HalfBloodPrince.png",
       "releaseDay": "July 16, 2005",
       "author": "J. K. Rowling",
       "description": "Harry discovers a powerful book and, while trying to discover its origins, collaborates with Dumbledore in the search for a series of magical objects that will aid in the destruction of Lord Voldemort."
@@ -16220,7 +16220,7 @@ export default {
     {
       "id": 7,
       "title": "Harry Potter and the Deathly Hallows",
-      "image":"images/DeathlyHallows.png",
+      "image":"./images/DeathlyHallows.png",
       "releaseDay": "July 21, 2007",
       "author": "J. K. Rowling",
       "description": "Harry, Ron and Hermione go on a dangerous mission to locate and destroy the secret of Voldemort's immortality and destruction - the Horcruces. Alone, without the guidance of their teachers or the protection of Professor Dumbledore, the three friends must lean on each other more than ever. But there are Dark Forces in between that threaten to tear them apart. Harry Potter is getting closer and closer to the task for which he has been preparing since the first day he set foot in Hogwarts: the last battle with Voldemort."
@@ -16228,7 +16228,7 @@ export default {
     {
       "id": 8,
       "title": "Harry Potter and the Cursed Child",
-      "image":"../images/CursedChild.png",
+      "image":"./images/CursedChild.png",
       "releaseDay": "July 30, 2016",
       "author": "J. K. Rowling",
       "description": "Harry's second son entered Hogwarts, but in Slytherin. His relationship with Harry is getting worse and he became close friends with Draco's son, Scorpius Malfoy who is said to be Lord Voldemort's son."
