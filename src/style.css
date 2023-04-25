@@ -1,11 +1,11 @@
 
 @font-face {
     font-family: "harryP";
-    src: url('../fonts/HARRYP__.TTF');
+    src: url('./fonts/HARRYP__.TTF');
 }
 
 body{
-    background-image: url(../images/pergamino.jpg);
+    background-image: url(./images/pergamino.jpg);
 }
 
 .tittle-container{
