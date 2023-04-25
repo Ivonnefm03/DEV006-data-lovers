@@ -1,10 +1,10 @@
 @font-face {
     font-family: "harryP";
-    src: url('../fonts/HARRYP__.TTF');
+    src: url('./fonts/HARRYP__.TTF');
 }
 
 body {
-    background-image: url(../images/pergamino.jpg);
+    background-image: url(./images/pergamino.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -12,7 +12,7 @@ body {
 
 
 .title-page {
-    background-image: url(../images/pergaminoletras.png);
+    background-image: url(./images/pergaminoletras.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -55,7 +55,7 @@ body {
     border: 3px solid #E3A900;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(2px);
-    background-image: url(../images/iconsearch.svg);
+    background-image: url(./images/iconsearch.svg);
     background-position: 11em center;
     background-repeat: no-repeat;
     background-size: 1.5em;
